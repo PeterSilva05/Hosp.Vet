@@ -4,17 +4,21 @@ O PetCare é um projeto artístico para oferecer serviços de saúde e bem-estar
 PETCARE-RHO.VERCEL.APP
 ).
 
-Visão Geral
+*Visão Geral*
 O site apresenta uma interface intuitiva e moderna, facilitando a navegação dos usuários. Entre os principais destaques, encontramos-se:
 
 Slogan: “Cuidando do seu pet com amor e dedicação”
-Serviços oferecidos:
+
+
+*Serviços oferecidos:*
 Consultas Veterinárias: Atendimento completo para garantir a saúde do seu animal de estimação (cite2†).
 Vacinação: Realização de vacinas essenciais para a proteção contra doenças (cite3†).
 Cirurgias: Procedimentos cirúrgicos realizados por equipe especializada e com infraestrutura adequada (cite4†).
 Depoimentos de Clientes: Feedbacks positivos que atestam a qualidade do atendimento, destacando a confiança e a satisfação dos clientes.
 Contato: Seção dedicada para agendamento de consultas e esclarecimento de dúvidas, com integração para e-mail e WhatsApp (cite0†, cite?†).
-Funcionalidades
+
+
+*Funcionalidades*
 A aplicação oferece as seguintes funcionalidades:
 
 Página Inicial: Exibe de forma clara e atrativa os principais serviços e o compromisso com o cuidado dos animais de estimação.
