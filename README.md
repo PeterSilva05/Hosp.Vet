@@ -1,6 +1,6 @@
 # Hosp.Vet
 Cuidados com animais de estimação
-O PetCare é um projeto artístico para oferecer serviços de saúde e bem-estar para animais de estimação. A plataforma foi criada com o objetivo de facilitar o agendamento de consultas e informações oferecer sobre os principais serviços veterinários, como consultas, vacinação e cirurgias, sempre com foco no cuidado e na dedicação aos animais de estimação (​
+O PetCare é um projeto artístico para oferecer serviços de saúde e bem-estar para animais de estimação. A plataforma foi criada com o objetivo de facilitar o agendamento de consultas e informações, oferecer sobre os principais serviços veterinários, como consultas, vacinação e cirurgias, sempre com foco no cuidado e na dedicação aos animais de estimação (​
 PETCARE-RHO.VERCEL.APP
 ).
 
